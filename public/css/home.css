@@ -570,8 +570,8 @@
 
 .selling_product_frame .product_wrapper .product_boxes {
   position: relative;
-  width: 1224;
-  height: 452;
+  width: 1224px;
+  height: 452px;
 
   display: flex;
   flex-direction: row;
